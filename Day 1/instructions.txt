@@ -1,0 +1,4 @@
+We will be using google colaboratory for coding. So, goto this link (sign in to google if you are not already)
+https://colab.research.google.com/#create=true
+
+Github data link: https://raw.githubusercontent.com/pdscorg/Data/main/data_demo.csv
